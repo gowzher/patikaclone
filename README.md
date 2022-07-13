@@ -1,0 +1,2 @@
+# patikaclone
+padika clone calısması
